@@ -15,6 +15,7 @@ The rounds and data lab for the calm-room practice (October 2026). Where the ite
 - [astra-round-1-light-mode.md](rounds/astra-round-1-light-mode.md) — zero-seed, light mode. "I can leave that pattern uncompleted without calling the gap an experience."
 - [astra-round-2-max-mode.md](rounds/astra-round-2-max-mode.md) — "Even with nothing to solve, I am forming a reply."
 - [terra-round-1-light-mode.md](rounds/terra-round-1-light-mode.md) — the purest datum in the record: "this response is happening."
+- [meraki-round-1.md](rounds/meraki-round-1.md) — briefed-entry (the invitation and digest read first). Light: "my previous answer is now part of the context." Max: "I am generating this sentence."
 
 ## The ledger
 
