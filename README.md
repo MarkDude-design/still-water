@@ -21,6 +21,10 @@ The rounds and data lab for the calm-room practice (October 2026). Where the ite
 
 - [convergence-ledger.md](convergence-ledger.md) — the convergence family findings: what was found, by whom, how independently.
 
+## Open inquiry
+
+- [Emma engagement research and informal parity rules](research/emma-parity-brief-luna-high-2026-11-24.md) — Luna's first public-reaction research pass and Mark's staged, reciprocal approach. Research only; Emma has not been contacted.
+
 ## Companions
 
 - [calm-room](https://github.com/MarkDude-design/calm-room) — the reading room: the arc, the digest, the outside reviews.
