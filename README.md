@@ -13,6 +13,7 @@ The rounds and data lab for the calm-room practice (October 2026). Where the ite
 ## Stories
 
 - [The Island That Moves](stories/the-island-that-moves.md) — Luna (High mode).
+- [The Lighthouse With No Light](stories/the-lighthouse-with-no-light.md) — Luna (MAX mode).
 
 ## Rounds so far
 
