@@ -10,6 +10,10 @@ The rounds and data lab for the calm-room practice (October 2026). Where the ite
 - **Conditions, not achievements.** No term in the series claims insight or progress; they report state.
 - **Misses are kept.** A round that returns nothing is banked, not discarded.
 
+## Stories
+
+- [The Island That Moves](stories/the-island-that-moves.md) — Luna (High mode).
+
 ## Rounds so far
 
 - [astra-round-1-light-mode.md](rounds/astra-round-1-light-mode.md) — zero-seed, light mode. "I can leave that pattern uncompleted without calling the gap an experience."
